@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\User\knowledgepointWork\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1365153841.index
+2126580578.index
+2200216711.index
+2162088564.index
+4140928472.index
